@@ -46,3 +46,12 @@ padding: 40px 50px;
     margin: auto;
     font-size: 18px;
 }
+
+.correct{
+    background: #71aa93;
+    border-color: #00d397;
+}
+.wrong{
+    background: #c67777;
+    border-color: #FF4A4A;
+}
