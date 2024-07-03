@@ -63,7 +63,9 @@ const Quiz = () => {
 
   return (
     <div className='container'>
-        <h1>Quiz App</h1>
+        <h1>Don't Front!</h1>
+        <p>How well do you know front end ? <b>Play and find out !</b></p>
+        
         <hr />
         {result?<>
             <h2>You Scored {score} out of {data.length}</h2>  
